@@ -6,7 +6,8 @@ react-native-andserver是开启本地服务的插件用法在src/home.js中已�
 
 ### 插件的用法
 
-+ ` import { NativeModules } from 'react-native' `
+1. ` import { NativeModules } from 'react-native' `
 
-+ ` onPress={()=> NativeModules.RNAndServer.startLocalServer()} `
+> 开启本地服务
+2. ` onPress={()=> NativeModules.RNAndServer.startLocalServer()} `
 
