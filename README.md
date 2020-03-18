@@ -14,9 +14,9 @@ react-native-andserver是开启本地服务的插件用法在src/home.js中已�
 
 2. 通过RNAndServer去调用原生的方法
 
-+ 开启本地服务
++ 开启本地服务<br>
 
-` onPress={()=> NativeModules.RNAndServer.startLocalServer()} `
+` onPress={()=> NativeModules.RNAndServer.startLocalServer()} `<br><br><br><br>
 
 + 停止本地服务
 
