@@ -1,0 +1,4 @@
+rootProject.name = 'untitled1'
+//project(':react-native-cardview').projectDir = new File(rootProject.projectDir, '../cardview/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

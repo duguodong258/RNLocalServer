@@ -1,0 +1,1 @@
+chrome-extension://kmdogeggkpemknfildaffdlhmbljfflj/lib/clipboard.min.js
